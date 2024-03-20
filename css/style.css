@@ -269,3 +269,8 @@ p {
    color: #fff;
    padding: 20px;
 }
+
+#main-footer a {
+   color: #fff;
+   text-decoration: underline;
+}
